@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonPartiallySortedReversedData", "pythonPartiallySortedReversedData\pythonPartiallySortedReversedData.pyproj", "{44A21CDE-FA43-4363-9A3B-AFE8A3EFE0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A21CDE-FA43-4363-9A3B-AFE8A3EFE0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A21CDE-FA43-4363-9A3B-AFE8A3EFE0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF40ACB-B559-4D01-934A-0FDCD9C5FF9F}
+	EndGlobalSection
+EndGlobal
